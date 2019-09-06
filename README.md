@@ -1,6 +1,7 @@
 CONVOLUTIONAL VIDEO CAPTIONING
 
-Video Captioning using CNN decoder (This work was inspired by Jyoti Aneja, Aditya Deshpande, Alexander Schwing,"CONVOLUTIONAL IMAGE CAPTIONING" CVPR2017)
+Video Captioning using CNN decoder 
+(This work was inspired by Jyoti Aneja, Aditya Deshpande, Alexander Schwing,"CONVOLUTIONAL IMAGE CAPTIONING" CVPR2017)
 
 Video captioning is a task of automatically generating the textual descriptions of video.It is an important yet chal-
 lenging task where challenges are due to the high variability and ambiguity of possible Video descriptions. In recent
