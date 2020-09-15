@@ -7,3 +7,5 @@ Temporal action localization is an important yet challenging problem. Given a lo
 poral dynamics. 
 ## Architecture 
 ![alt text](Vid_convcap_architecture.png)
+## Results
+![alt text](Vid_convcap_architecture.png)
