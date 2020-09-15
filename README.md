@@ -1,7 +1,9 @@
 CONVOLUTIONAL VIDEO CAPTIONING
 
-Video Captioning using CNN decoder 
-(This work was inspired by Jyoti Aneja, Aditya Deshpande, Alexander Schwing,"CONVOLUTIONAL IMAGE CAPTIONING" CVPR2017)
+# Video Captioning using CNN decoder 
 
-Video captioning is a task of automatically generating the textual descriptions of video.It is an important yet challenging task where challenges are due to the high variability and ambiguity of possible Video descriptions. In recent
-years significant progress has been made in video captioning, using Recurrent Neural Networks powered by long short-term-memory (LSTM) units. Despite mitigating the vanishing gradient problem, and despite their compelling ability to memorize dependencies, LSTM units are complex and inherently sequential across time. Inspired by the success of convolutional neural networks in neural machine translation , CNN is used as a caption decoder in this work. We also perform a detailed analysis, providing compelling reasons in favor of convolutional language generation approaches
+## Abstract:
+Temporal action localization is an important yet challenging problem. Given a long, untrimmed video consisting of multiple action instances and complex background contents, we need not only to recognize their action categories, but also to localize the start time and end time of each instance.Although Many state-of-the-art action localization models use 3D convnets (C3D network) which are efficient in abstracting action semantics achieve accurate recognition of actions but can not precisely localize  these actions as temporal length of the input reduces by factor of 8.So,to achieve precise localization of action boundaries this paper has designed a novel Convolutional-De-Convolutional(CDC) network,which places CDC layers on top of 3D convnets .These CDC layers perform temporal upsampling and spatial downsampling operations simultaneously to predicts action instances at frame level granularity .Finally,the CDC network demonstrates high efficiency in jointly modeling  action semantics in space-time and fine-grained tem
+poral dynamics. 
+## Architecture 
+![alt text](https://drive.google.com/file/d/11HbiglG296qm08eSpVn8Vem9oXCHMD-K/view?usp=sharing)
