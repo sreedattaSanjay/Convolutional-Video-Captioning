@@ -44,4 +44,4 @@ torchvision==0.2.2
 tornado==6.0.1
 tqdm==4.31.1
 urllib3==1.25.3
-Werkzeug==0.15.0
+Werkzeug==0.15.3
